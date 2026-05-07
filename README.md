@@ -59,3 +59,8 @@ Spotify Premium required for playback-mutating actions (play, pause, skip, volum
 ## License
 
 MIT
+
+## Related Hermes Skills
+- [hermes-social-poster](https://github.com/Marrowleaf/hermes-social-poster) — Cross-platform social media posting
+- [hermes-telegram-channels](https://github.com/Marrowleaf/hermes-telegram-channels) — Telegram channel management
+- [hermes-youtube-content](https://github.com/Marrowleaf/hermes-youtube-content) — YouTube content creation and management
